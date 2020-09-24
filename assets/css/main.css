@@ -4649,3 +4649,18 @@ input, select, textarea {
 		}
 
 	}
+
+	/* Added font awesome images */
+	.image-one-container {
+	    display: flex;
+	    justify-content: space-around;
+	}
+	.html {
+		width: 100%;
+	}
+	.html i {
+		font-size: 30px;
+	}
+	.html p {
+		/* margin-bottom: 0; */
+	}
